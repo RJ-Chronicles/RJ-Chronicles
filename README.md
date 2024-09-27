@@ -5,9 +5,9 @@ I'm a proficient **MERN Stack Developer** with over **4 years of experience** in
 
 ### 🌐 My Technical Skills:
 - **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, SpringBoot
 - **Database:** MongoDB, PostgreSQL
-- **Cloud & DevOps:** AWS (Lambda, SQS, S3), Docker, Kubernetes, NAT Message Queue
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, NAT Message Queue
 - **Tools:** JIRA, Docker, Git, Azure, VSCode, Anaconda
 - **Languages:** JavaScript, TypeScript, Python, Java
 
@@ -22,7 +22,6 @@ I'm a proficient **MERN Stack Developer** with over **4 years of experience** in
 - Improving my skills in **Python**
 
 ### 🎉 Fun Facts:
-- A die-hard fan of **Virat Kohli** 🏏.
 - I'm passionate about **Hinduism**, mindfulness, and building my tech skills.
 
 Feel free to connect with me for collaboration on open-source projects or any exciting opportunities!
