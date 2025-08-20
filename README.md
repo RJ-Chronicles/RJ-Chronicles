@@ -28,3 +28,4 @@ Feel free to connect with me for collaboration on open-source projects or any ex
 
 📧 **Contact**: jondhalekarrajendra02@gmail.com  
 📞 **Phone**: +91 9359163465
+💼 **LinkedIn**: https://in.linkedin.com/in/rajendra-jondhalekar-555066150
