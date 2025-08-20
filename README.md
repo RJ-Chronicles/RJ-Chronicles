@@ -27,5 +27,5 @@ I'm a proficient **MERN Stack Developer** with over **4 years of experience** in
 Feel free to connect with me for collaboration on open-source projects or any exciting opportunities!
 
 📧 **Contact**: jondhalekarrajendra02@gmail.com  
-📞 **Phone**: +91 9359163465
+📞 **Phone**: +91 9359163465 
 💼 **LinkedIn**: https://in.linkedin.com/in/rajendra-jondhalekar-555066150
